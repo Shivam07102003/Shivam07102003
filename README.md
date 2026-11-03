@@ -27,8 +27,8 @@ I build practical machine-learning, NLP, computer-vision, and LLM applications f
 **Data:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, GeoPandas, Tableau  
 **Development:** Flask, Streamlit, Git, GitHub, Docker, AWS  
 
-## Connect With Me
+## Connect With Me 👋
 
 - [LinkedIn](https://www.linkedin.com/in/shivampatel710/)
-- [Portfolio](https://sites.google.com/sdsu.edu/shivam-patel/home)
+- [Portfolio](https://shivam07102003.github.io/shivam-portfolio/)
 - [ORCID](https://orcid.org/0009-0004-3910-7996)
